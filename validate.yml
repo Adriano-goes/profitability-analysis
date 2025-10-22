@@ -1,0 +1,12 @@
+name: Validate
+on:
+  pull_request:
+  push:
+    branches: [ main ]
+jobs:
+  list-repo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Show tree
+        run: ls -R

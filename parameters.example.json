@@ -1,0 +1,5 @@
+{
+  "SqlServerName": "YOUR_SERVER",
+  "DatabaseName": "YOUR_DB",
+  "FolderPath": "./data/sample"
+}
