@@ -26,7 +26,7 @@ A compact analytical dashboard for the Head of Finance to identify **low-perform
 ## Preview
 | Overview | Insights |
 |---|---|
-| ![overview](docs/screenshots/01-overview.png) | ![insights](docs/screenshots/02-insights.png) |
+| ![overview](01-overview.png) | ![insights](docs/screenshots/02-insights.png) |
 
 ## Notes
 - Do **not** commit real credentials or connection strings. Use parameters.  
