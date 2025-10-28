@@ -8,8 +8,6 @@ A compact analytical dashboard for the Head of Finance to identify **low-perform
 - `data/sample/List of Orders.csv`
 - `data/sample/Sales target.csv`
 
-> Keep the **exact file names** or update the queries/parameters in Power BI accordingly.
-
 ## Data Story Objectives
 | Objective | Users | Actions | Usage Frequency |
 |---|---|---|---|
